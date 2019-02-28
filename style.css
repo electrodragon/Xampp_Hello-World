@@ -1,0 +1,13 @@
+body {
+    background-color:green;
+    margin-top:25%;
+    margin-bottom:25%;
+    margin-left:25%;
+    margin-right:25%;
+    text-align:center;
+}
+.heading {
+    background-color:indigo;
+    margin:auto;
+    width:50%;
+}
